@@ -3,5 +3,6 @@
   "scanSettings": {
     "releaseBranches": ["test.*"]
 
+
   }
 }
